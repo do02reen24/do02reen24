@@ -1,5 +1,5 @@
-### Hello! I'm a student who wants to be a front-end developer.
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdo02reen24)](https://hits.seeyoufarm.com)
+### Hello! I'm a student who wants to be a front-end developer. :baby_chick:
+
 <!--
 **do02reen24/do02reen24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
