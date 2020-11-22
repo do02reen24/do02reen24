@@ -1,16 +1,17 @@
-### Hello! I'm a student who wants to be a front-end developer. :baby_chick:
+### Hi there, I'm doyeon! 👋
 
-<!--
-**do02reen24/do02reen24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student interested in **front end development.** I love to talk and code with people. I am trying to experience various things.
 
-Here are some ideas to get you started:
+* 🔥 I'm currently working on project [Honey-In-Money](https://github.com/boostcamp-2020/Project16-E-Account-Book) (account book service)
+* 🌱 I'm currently learning Typescript
+* 💌 Ask me about anything! do02reen24@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Experience
+
+|         Type          |       Date        | Contents                                  |  Organization   |
+| :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
+|      🏫 Education      |     2020.08 ~     | Boostcamp membership 5                    |  NAVER CONNECT  |
+|      🏫 Education      | 2020.07 ~ 2020.08 | Boostcamp challenge 5                     |  NAVER CONNECT  |
+|     🏢 Internship      | 2020.01 ~ 2020.02 | Development of wireless thermo-hygrometer |   WOOJUNGBIO    |
+| 👪 External activities | 2019.03 ~ 2019.12 | LIKE LION 7                               |    LIKE LION    |
+|      🏫 Education      |     2017.03 ~     | Department of software                    | Ajou University |
