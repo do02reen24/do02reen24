@@ -2,8 +2,7 @@
 
 I am a student interested in **front end development.** I love to talk and code with people. I am trying to experience various things.
 
-* 🔥 I'm currently working on project [Honey-In-Money](https://github.com/boostcamp-2020/Project16-E-Account-Book) (account book service)
-* 🌱 I'm currently learning Typescript
+* 🌱 I'm currently learning Javascript, Typescript
 * 💌 Ask me about anything! do02reen24@gmail.com
 
 ### 📚 Experience
