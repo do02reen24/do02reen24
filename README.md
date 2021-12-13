@@ -10,6 +10,7 @@ I am a student interested in **front end development.** I love to talk and code 
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
 |       🏢 Company       |     2021.06 ~     | Front-end Developer                       |     ZIGBANG     |
+| 👪 External activities | 2021.08 ~ 2021.11 | OpenSource Contribution Academy(dooboo-ui)|  정보통신산업진흥원  |
 |      🏫 Education      | 2020.08 ~ 2020.12 | Boostcamp membership 5                    |  NAVER CONNECT  |
 |      🏫 Education      | 2020.07 ~ 2020.08 | Boostcamp challenge 5                     |  NAVER CONNECT  |
 |     🏢 Internship      | 2020.01 ~ 2020.02 | Development of wireless thermo-hygrometer |   WOOJUNGBIO    |
