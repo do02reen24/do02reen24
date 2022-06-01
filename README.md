@@ -1,9 +1,10 @@
-### Hi there, I'm doyeon! 👋
+### Hi there, I'm doreen! 👋
 
-I am a student interested in **front end development.** I love to talk and code with people. I am trying to experience various things.
+I'm a **front-end developer**. But I am also interested in other areas of development.
 
-* 🌱 I'm currently learning React Native, Typescript
-* 💌 Ask me about anything! do02reen24@gmail.com
+I like planning and design as well as development. I enjoy various attempts and challenges.
+
+> 💌 Ask me about anything! do02reen24@gmail.com
 
 ### 📚 Experience
 
