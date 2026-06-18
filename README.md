@@ -1,7 +1,5 @@
 ### Hi there, I'm doreen! 👋
 
-I'm a **front-end developer**. But I am also interested in other areas of development.
-
 I like planning and design as well as development. I enjoy various attempts and challenges.
 
 > 💌 Ask me about anything! do02reen24@gmail.com
@@ -10,6 +8,7 @@ I like planning and design as well as development. I enjoy various attempts and 
 
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
+|       🏢 Company       | 2023.08 ~ 2026.06 | Full-stack Developer                      |   UNDESIGNING   |
 |       🏢 Company       | 2021.06 ~ 2023.01 | Front-end Developer                       |     ZIGBANG     |
 | 👪 External activities | 2021.08 ~ 2021.11 | OpenSource Contribution Academy(dooboo-ui)|  정보통신산업진흥원  |
 |      🏫 Education      | 2020.08 ~ 2020.12 | Boostcamp membership 5                    |  NAVER CONNECT  |
